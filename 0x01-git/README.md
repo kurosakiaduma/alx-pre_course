@@ -107,7 +107,7 @@ The syntax for inserting images in Markdown is : `![alt text]("/image-path" "Tit
 Just like links, images **can also be stored as variables**
 
 ----------------------------------------------------------------------------
-[Google]: <www.google.com>
+[Google]: https://www.google.com
 
 ----------------------------------------------------------------------------
 This has been Markdown in 10 minutes by Tevin Aduma.
