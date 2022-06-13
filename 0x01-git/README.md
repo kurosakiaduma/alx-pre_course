@@ -60,7 +60,7 @@ To start math mode in Jupyter Notebooks, wrap the LaTex in dollar sign.
 For blocks of Math expressions, you can use $$ two dollars signs wrapped at the top and bottom of the expression:
 
 $$
-y = fract {a}{b}
+y = /fract {a}{b}
 $$
 
 ---------------------------------------------------------------------------
@@ -107,7 +107,7 @@ The syntax for inserting images in Markdown is : `![alt text]("/image-path" "Tit
 Just like links, images **can also be stored as variables**
 
 ----------------------------------------------------------------------------
-Google: www.google.com
+[Google]: <www.google.com>
 
 ----------------------------------------------------------------------------
 This has been Markdown in 10 minutes by Tevin Aduma.
