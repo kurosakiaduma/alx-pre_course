@@ -55,7 +55,7 @@ These can be used to render math symbols and expressions.
 
 To start math mode in Jupyter Notebooks, wrap the LaTex in dollar sign.
 
-` $ y = y =mx+ b $ `
+` $ y =mx+ b $ `
 
 For blocks of Math expressions, you can use $$ two dollars signs wrapped at the top and bottom of the expression:
 
