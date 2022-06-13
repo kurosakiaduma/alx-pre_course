@@ -12,7 +12,6 @@ Enclose links in the () tags and use a placeholder text in square brackets [] ri
 [Stackoverflow](www.stackoverflow.com)
 
 You can also store your link as a variable and call it elsewhere in your file.
-[Google]: www.google.com
 
 The most widely used search engine in the world is [Google]
 
@@ -106,6 +105,9 @@ IMAGES
 The syntax for inserting images in Markdown is : `![alt text]("/image-path" "Title")`
 
 Just like links, images **can also be stored as variables**
+
+----------------------------------------------------------------------------
+Google: www.google.com
 
 ----------------------------------------------------------------------------
 This has been Markdown in 10 minutes by Tevin Aduma.
